@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @1Suro1
+- 👋 Hi, I’m suro
 - I am java programmer.
 
